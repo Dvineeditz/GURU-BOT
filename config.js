@@ -61,7 +61,7 @@ global.fgsc = 'https://github.com/Guru322/GURU-BOT'
 global.fgyt = 'https://www.youtube.com/@divinedivineles2742'
 global.fgpyp = 'https://www.youtube.com/@divinedivineles2742'
 global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
-global.thumb = fs.readFileSync('./Assets/Gurulogo.jpg')
+global.thumb = fs.readFileSync('./Assets/Div.JPG')
 
 
 global.wait = '*⌛ _ʟᴏᴀᴅɪɴɢ ᴅᴀᴅᴅʏ ᴅɪᴠɪɴᴇ😌🤲..._*\n*▰▰▰▱▱▱▱▱*'
